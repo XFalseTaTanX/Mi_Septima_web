@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Lobster', cursive;
+    color:white;
+    text-align: center;
+    justify-content: center;
+}
+.span-html{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-family: 'Rampart One', cursive;   
+}
+body{
+    background-image: url(https://a-static.besthdwallpaper.com/digital-art-dark-red-black-backgrounds-wallpaper-3360x1260-82608_91.jpg);
+}
